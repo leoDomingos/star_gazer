@@ -21,4 +21,4 @@ The project must then have the following specifications:
 # Initial Breakdown
 
 
-![[Diagram V1.svg|700]]
+![](Diagram%20V1.svg)
